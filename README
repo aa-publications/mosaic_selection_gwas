@@ -1,1 +1,1 @@
-test
+This repository contains all necessary scripts and data to reproduce the figure in "Mosaic patterns of selection in genomic regions associated with diverse human traits." Commments in each script provide instruction on how to run them. NOTE: the absolute path for the data files has to be changed as appropriate before running these scripts. These scripts were frozen on Oct 30 2022.
